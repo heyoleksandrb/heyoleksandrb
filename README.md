@@ -150,6 +150,12 @@ Hey, ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9
       </a>
       <br>Debian
     </td>
+    <td align="center"  width="96">
+      <a href="#macropower-tech">
+        <img src="./images/17-vscode.svg" width="48" height="48" alt="Visual Studio Code" />
+      </a>
+      <br>Visual Studio Code
+    </td>
     <td align="center" width="96">
       <a href="#macropower-tech" >
         <img src="https://raw.githubusercontent.com/grafana/grafana/master/public/img/grafana_icon.svg" width="48" height="48" alt="Grafana" />
