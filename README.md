@@ -6,7 +6,7 @@ Hey, ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9
 
 🎬 [YouTube](https://www.youtube.com/channel/UCf85kQ0u1sYTTTyKVpxrlyQ?sub_confirmation=1)\
 🐦 [X / Twitter](https://twitter.com/heyvaldemar)\
-🎨 [Instagram](https://www.instagram.com/heyvaldemar/)\
+🎨 [Instagram](https://www.instagram.com/heyoleksandrb/)\
 🐘 [Mastodon](https://mastodon.social/@heyvaldemar)\
 🧵 [Threads](https://www.threads.net/@heyvaldemar)\
 🎸 [Facebook](https://www.facebook.com/profile.php?id=61573972372591/)\
