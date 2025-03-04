@@ -1,9 +1,6 @@
 hey, ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127417c-8b55-ab5a4333674e.gif)my name is Oleksandr Bykaluyk
 =========================================================================================================================================
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=5000&pause=1000&color=9046FF&width=435&lines=But+my+friends+call+me+Valdemar.)](https://github.com/sponsors/heyValdemar)
-
-![mario](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-896437e6fd45d227.gif)
 
 
 
