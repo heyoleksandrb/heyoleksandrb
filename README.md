@@ -152,9 +152,9 @@ Hey, ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9
     </td>
     <td align="center"  width="88">
       <a href="#macropower-tech">
-        <img src="./images/17-vscode.svg" width="44" height="44" alt="Visual Studio Code" />
+        <img src="./images/17-vscode.svg" width="44" height="44" alt="VSCode " />
       </a>
-      <br>Visual Studio Code
+      <br>VSCode 
     </td>
     <td align="center" width="88">
       <a href="#macropower-tech" >
