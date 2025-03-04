@@ -40,6 +40,14 @@ Hey, ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9
 
 
 
+##
+<div align="center">
+<a href="https://u8views.com/github/heyoleksandrb"><img src="https://u8views.com/api/v1/github/profiles/201656126/views/day-week-month-total-count.svg"></a>
+</div>
+
+<br>
+
+
 ## Refill My Coffee Supplies
 
 💖 [PayPal](https://www.paypal.com/paypalme/heyoleksandrb)\
@@ -47,15 +55,6 @@ Hey, ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9
 💎 [GitHub](https://github.com/sponsors/heyoleksandrb)\
 🥤 [BuyMeaCoffee](https://www.buymeacoffee.com/heyoleksandrb)\
 🍪 [Ko-fi](https://ko-fi.com/heyoleksandrb)
-
-
-
-##
-<div align="center">
-<a href="https://u8views.com/github/heyoleksandrb"><img src="https://u8views.com/api/v1/github/profiles/201656126/views/day-week-month-total-count.svg"></a>
-</div>
-
-<br>
 
 
 
