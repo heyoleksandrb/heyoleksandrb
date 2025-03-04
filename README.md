@@ -17,14 +17,6 @@ Hey, ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9
 🧩 [LeetCode](https://leetcode.com/u/heyoleksandrb/)\
 🐈 [GitHub](https://github.com/heyoleksandrb/)
 
-## Refill My Coffee Supplies
-
-💖 [PayPal](https://www.paypal.com/paypalme/heyoleksandrb)\
-🏆 [Patreon](https://www.patreon.com/heyoleksandrb)\
-💎 [GitHub](https://github.com/sponsors/heyoleksandrb)\
-🥤 [BuyMeaCoffee](https://www.buymeacoffee.com/heyoleksandrb)\
-🍪 [Ko-fi](https://ko-fi.com/heyoleksandrb)
-
 
 
 
@@ -45,6 +37,17 @@ Hey, ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9
   </td>
   </tr>
 </table>
+
+
+
+## Refill My Coffee Supplies
+
+💖 [PayPal](https://www.paypal.com/paypalme/heyoleksandrb)\
+🏆 [Patreon](https://www.patreon.com/heyoleksandrb)\
+💎 [GitHub](https://github.com/sponsors/heyoleksandrb)\
+🥤 [BuyMeaCoffee](https://www.buymeacoffee.com/heyoleksandrb)\
+🍪 [Ko-fi](https://ko-fi.com/heyoleksandrb)
+
 
 
 ##
