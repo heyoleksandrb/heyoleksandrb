@@ -27,6 +27,26 @@ Hey, ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9
 
 
 
+
+### GitHub Stats :
+
+<table align="center">
+  <tr>
+  <td>
+  <a href="https://github.com/heyoleksandrb/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=heyoleksandrb&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Oleksandr Bykaluyk github stats" /></a>
+  </td>
+  <td>
+  <a href="https://github.com/heyoleksandrb/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heyoleksandrb&layout=compact&theme=buefy&hide_border=true" /></a>
+  </td>
+  </tr>
+  <tr>
+  <td colspan=2 align="center">
+  <a href="https://git.io/streak-stats"> <img src="http://github-readme-streak-stats.herokuapp.com?user=heyoleksandrb&hide_border=true&background=f6f8fa&currStreakLabel=000000&date_format=j%20M%5B%20Y%5D" alt="Oleksandr Bykaluyk GitHub Readme Streak Stats" /> </a>
+  </td>
+  </tr>
+</table>
+
+
 ##
 <div align="center">
 <a href="https://u8views.com/github/heyoleksandrb"><img src="https://u8views.com/api/v1/github/profiles/201656126/views/day-week-month-total-count.svg"></a>
