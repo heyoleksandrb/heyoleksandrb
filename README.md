@@ -9,7 +9,7 @@ Hey, ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9
 🎨 [Instagram](https://www.instagram.com/heyvaldemar/)\
 🐘 [Mastodon](https://mastodon.social/@heyvaldemar)\
 🧵 [Threads](https://www.threads.net/@heyvaldemar)\
-🎸 [Facebook](https://www.facebook.com/heyvaldemarFB/)\
+🎸 [Facebook](https://www.facebook.com/profile.php?id=61573972372591/)\
 🧊 [Bluesky](https://bsky.app/profile/heyvaldemar.bsky.social)\
 🎥 [TikTok](https://www.tiktok.com/@heyvaldemar)\
 💻 [LinkedIn](https://www.linkedin.com/in/heyvaldemar/)\
