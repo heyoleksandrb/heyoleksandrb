@@ -68,17 +68,3 @@ Hey, ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9
 
 
 
-
-
-
-
-
-
-  
-### Show some 💜 by starring some of the [repositories](https://github.com/heyValdemar?tab=repositories)!
-
-![octocat](https://user-images.githubusercontent.com/10498744/210113490-e2fad07f-4488-4da8-a656-b9abbdd8cb26.gif)
-
-</div>
-
-![footer](https://user-images.githubusercontent.com/10498744/210157572-1fca0242-8af2-46a6-bfa3-666ffd40ebde.svg)
