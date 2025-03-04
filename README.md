@@ -5,25 +5,25 @@ Hey, ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9
 ## Follow Me
 
 🎬 [YouTube](https://www.youtube.com/channel/UCf85kQ0u1sYTTTyKVpxrlyQ?sub_confirmation=1)\
-🐦 [X / Twitter](https://twitter.com/heyvaldemar)\
+🐦 [X / Twitter](https://twitter.com/heyoleksandrb)\
 🎨 [Instagram](https://www.instagram.com/heyoleksandrb/)\
-🐘 [Mastodon](https://mastodon.social/@heyvaldemar)\
-🧵 [Threads](https://www.threads.net/@heyvaldemar)\
+🐘 [Mastodon](https://mastodon.social/@heyoleksandrb)\
+🧵 [Threads](https://www.threads.net/@heyoleksandrb)\
 🎸 [Facebook](https://www.facebook.com/profile.php?id=61573972372591/)\
-🧊 [Bluesky](https://bsky.app/profile/heyvaldemar.bsky.social)\
-🎥 [TikTok](https://www.tiktok.com/@heyvaldemar)\
-💻 [LinkedIn](https://www.linkedin.com/in/heyvaldemar/)\
+🧊 [Bluesky](https://bsky.app/profile/heyoleksandrb.bsky.social)\
+🎥 [TikTok](https://www.tiktok.com/@heyoleksandrb)\
+💻 [LinkedIn](https://www.linkedin.com/in/heyoleksandrb/)\
 📣 [daily.dev Squad](https://app.daily.dev/squads/devopscompass)\
-🧩 [LeetCode](https://leetcode.com/u/heyvaldemar/)\
+🧩 [LeetCode](https://leetcode.com/u/heyoleksandrb/)\
 🐈 [GitHub](https://github.com/heyoleksandrb/)
 
 ## Refill My Coffee Supplies
 
-💖 [PayPal](https://www.paypal.com/paypalme/heyvaldemarCOM)\
-🏆 [Patreon](https://www.patreon.com/heyvaldemar)\
-💎 [GitHub](https://github.com/sponsors/heyvaldemar)\
-🥤 [BuyMeaCoffee](https://www.buymeacoffee.com/heyvaldemar)\
-🍪 [Ko-fi](https://ko-fi.com/heyvaldemar)
+💖 [PayPal](https://www.paypal.com/paypalme/heyoleksandrb)\
+🏆 [Patreon](https://www.patreon.com/heyoleksandrb)\
+💎 [GitHub](https://github.com/sponsors/heyoleksandrb)\
+🥤 [BuyMeaCoffee](https://www.buymeacoffee.com/heyoleksandrb)\
+🍪 [Ko-fi](https://ko-fi.com/heyoleksandrb)
 
 
 
