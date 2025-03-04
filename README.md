@@ -83,6 +83,15 @@ Let’s do this together!
 
 <div align="center">
 
+
+<a href="https://u8views.com/github/o-bav"><img src="https://u8views.com/api/v1/github/profiles/12545607/views/day-week-month-total-count.svg"></a>
+
+
+##
+<a href="https://u8views.com/github/o-bav"><img src="https://u8views.com/api/v1/github/profiles/12545607/views/day-week-month-total-count.svg"></a>
+
+<div align="center">
+  
 ### Show some 💜 by starring some of the [repositories](https://github.com/heyValdemar?tab=repositories)!
 
 ![octocat](https://user-images.githubusercontent.com/10498744/210113490-e2fad07f-4488-4da8-a656-b9abbdd8cb26.gif)
