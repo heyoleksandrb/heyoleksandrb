@@ -110,13 +110,13 @@ Hey, ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9
   <tr>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="./img/go-flat.svg" width="48" height="48" alt="Golang" />
+        <img src="./images/go-flat.svg" width="48" height="48" alt="Golang" />
       </a>
       <br>Go
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="./img/python-original.svg" width="48" height="48" alt="Python" />
+        <img src="./images/python-original.svg" width="48" height="48" alt="Python" />
       </a>
       <br>Python
     </td>
@@ -128,7 +128,7 @@ Hey, ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="./img/typescript-original.svg" width="48" height="48" alt="TypeScript" />
+        <img src="./images/typescript-original.svg" width="48" height="48" alt="TypeScript" />
       </a>
       <br>TypeScript
     </td>
@@ -140,13 +140,13 @@ Hey, ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9
     </td>
     <td align="center" width="96"> 
       <a href="#macropower-tech" >
-        <img src="./img/docker-original.svg" width="48" height="48" alt="Docker" />
+        <img src="./images/docker-original.svg" width="48" height="48" alt="Docker" />
       </a>
       <br>Docker
     </td>
     <td align="center"  width="96">
       <a href="#macropower-tech">
-        <img src="./img/debian-original.svg" width="48" height="48" alt="Debian" />
+        <img src="./images/debian-original.svg" width="48" height="48" alt="Debian" />
       </a>
       <br>Debian
     </td>
