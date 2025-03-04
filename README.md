@@ -15,7 +15,7 @@ Hey, ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9
 💻 [LinkedIn](https://www.linkedin.com/in/heyvaldemar/)\
 📣 [daily.dev Squad](https://app.daily.dev/squads/devopscompass)\
 🧩 [LeetCode](https://leetcode.com/u/heyvaldemar/)\
-🐈 [GitHub](https://github.com/heyvaldemar)
+🐈 [GitHub](https://github.com/heyoleksandrb/)
 
 ## Refill My Coffee Supplies
 
